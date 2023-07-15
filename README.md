@@ -1,4 +1,4 @@
-### Hi there 👋&
+### Hi there 👋
 
 ![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=nowsoar&show_icons=true&theme=tokyonight&line_height=33)
 ![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=nowsoar&theme=tokyonight&hide=language1)
