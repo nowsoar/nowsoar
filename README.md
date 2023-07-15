@@ -1,5 +1,20 @@
 ### Hi there 👋
 
+![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=nowsoar&show_icons=true&theme=tokyonight)
+
+![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=nowsoar&layout=compact&theme=tokyonight)
+
+![GitHub仓库信息卡片](https://github-stats.ubrong.com/api/pin/?username=nowsoar&repo=community&theme=dark)
+
+![Visitor Count](https://profile-counter.glitch.me/{nowsoar}/count.svg)
+
+
+
+
+
+<!--
+参考：https://www.bilibili.com/read/cv21336135
+--!>
 <!--
 **nowsoar/nowsoar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
